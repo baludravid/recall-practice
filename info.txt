@@ -3,8 +3,5 @@ yes i am learning
 1
 2
 3
-<<<<<<< HEAD
-4
-=======
 adding line behalf of other developer 
->>>>>>> 4b083cc1b1f0917b974eb909bf7509f7e93e2141
+adding new line for feauture1 branch 
